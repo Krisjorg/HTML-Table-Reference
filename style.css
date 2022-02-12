@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+    background-color: #F5F4F3;
+}
+
+div {
+    
+    border: 20px double #648E89;
+    width: 1000px;
+    margin: auto;
+    padding: 0px;
+}
+
+h1 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 50px;
+    background-color: #648E89;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    font-family: "Helvetica", sans-serif;
+    border: 4px solid #6BA79B;
+    padding: 10px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+h2 {
+    width: 70%;
+    border-bottom: 10px solid #F5CDBD;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 auto 20px;
+}
+
+table {
+    margin: 0 auto 10px;
+}
+
+th {
+    background-color: #6BA79B;
+    color: white;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+th, td {
+    font-size: 18px;
+}
+
+td {
+    background-color: #F3E1BC;
+    padding: 20px;
+    font-family: "Helvetica", sans-serif;
+}
+
+#tableAttributes {
+    padding: 0 0 20px 0;
+}
